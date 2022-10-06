@@ -687,6 +687,7 @@ img {
   border: solid 1px;
   border-color: rgba(0, 0, 0, 0.1);
   border-radius: 50%;
+  cursor: pointer;
   display: flex;
   justify-content: center;
   align-items: center;
